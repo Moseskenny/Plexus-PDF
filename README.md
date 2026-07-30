@@ -27,10 +27,10 @@
 ## 📸 In Action
 
 <p align="center">
-  <img src="screenshots/home.png" width="185" alt="Home" />
-  <img src="screenshots/scanner.png" width="185" alt="Scanner" />
-  <img src="screenshots/merge.png" width="185" alt="Merge" />
-  <img src="screenshots/about.png" width="185" alt="About" />
+  <img src="screenshots/home.jpg" width="185" alt="Home" />
+  <img src="screenshots/scanner.jpg" width="185" alt="Scanner" />
+  <img src="screenshots/merge.jpg" width="185" alt="Merge" />
+  <img src="screenshots/about.jpg" width="185" alt="About" />
 </p>
 
 <p align="center">
