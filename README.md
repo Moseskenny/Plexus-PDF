@@ -8,8 +8,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/YOUR_USER/Plexus-PDF/releases/latest">
-      <img src="https://img.shields.io/github/v/release/YOUR_USER/Plexus-PDF?style=for-the-badge&label=Download%20APK&color=cb6e6e" alt="Download APK" />
+    <a href="https://github.com/Moseskenny/Plexus-PDF/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Moseskenny/Plexus-PDF?style=for-the-badge&label=Download%20APK&color=cb6e6e" alt="Download APK" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=for-the-badge&logo=android" alt="Android 8.0+" />
@@ -111,8 +111,8 @@ Plexus PDF processes everything locally in your device's browser engine. There a
 
 | Version | Download |
 |---------|----------|
-| **Latest** | [![Download](https://img.shields.io/github/v/release/YOUR_USER/Plexus-PDF?label=Get%20APK&color=cb6e6e)](https://github.com/YOUR_USER/Plexus-PDF/releases/latest) |
-| **All Releases** | [View on GitHub](https://github.com/YOUR_USER/Plexus-PDF/releases) |
+| **Latest** | [![Download](https://img.shields.io/github/v/release/Moseskenny/Plexus-PDF?label=Get%20APK&color=cb6e6e)](https://github.com/Moseskenny/Plexus-PDF/releases/latest) |
+| **All Releases** | [View on GitHub](https://github.com/Moseskenny/Plexus-PDF/releases) |
 
 ### Installation
 
