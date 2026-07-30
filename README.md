@@ -33,10 +33,6 @@
   <img src="screenshots/about.jpg" width="185" alt="About" />
 </p>
 
-<p align="center">
-  <em>Screenshots coming soon — replace the placeholders in <code>screenshots/</code>.</em>
-</p>
-
 ---
 
 ## ✨ Features
