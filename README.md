@@ -81,6 +81,20 @@
       </ul>
     </td>
   </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Convert</h3>
+      <ul>
+        <li>PDF → Images — export each page as PNG/JPG</li>
+        <li>PDF → Text — extract raw text content</li>
+        <li>Images → PDF — combine images into a PDF</li>
+        <li>Compress PDF — reduce file size on-device</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <!-- This cell stays empty or you can move another feature here -->
+    </td>
+  </tr>
 </table>
 
 ---
