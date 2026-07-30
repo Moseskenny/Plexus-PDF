@@ -154,6 +154,13 @@ All PDF processing is done **client-side in the browser** — zero server commun
 
 ---
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Moseskenny?color=ea4aaa&style=flat-square)](https://github.com/sponsors/Moseskenny)
+
+> [!IMPORTANT]
+> **Donations are entirely optional.** Plexus PDF is free software. Your support, in any form (even just a star!), is deeply appreciated!
+
+---
+
 📄 License
 MIT (LICENSE)
 <div align="center">
