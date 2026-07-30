@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-  <h1>🪷 Plexus PDF</h1>
+  <h1> Plexus PDF</h1>
   <p>
     <strong>Offline PDF Studio & Scanner</strong><br />
-    Merge · Sign · Split · Scan · Watermark — entirely on your device.<br />
+    Merge · Convert · Sign · Split · Scan · Watermark — entirely on your device. <br />
     No uploads. No accounts. No servers.
   </p>
 
