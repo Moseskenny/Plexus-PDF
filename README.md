@@ -2,9 +2,9 @@
   <br />
   <h1> Plexus PDF</h1>
   <p>
-    <strong>Offline PDF Studio & Scanner</strong><br />
-    Merge · Convert · Sign · Split · Scan · Watermark — entirely on your device. <br />
-    No uploads. No accounts. No servers.
+    <strong>Offline PDF Studio, Viewer & Scanner</strong><br />
+    View · Merge · Convert · Sign · Split · Scan · Watermark — entirely on your device. <br />
+    Supports PDF, DOCX, and Image viewing. No uploads. No accounts. No servers.
   </p>
 
   <p>
@@ -24,21 +24,19 @@
 
 ---
 
-## 📸 In Action
-
-<p align="center">
-  <img src="screenshots/home.jpg" width="185" alt="Home" />
-  <img src="screenshots/scanner.jpg" width="185" alt="Scanner" />
-  <img src="screenshots/merge.jpg" width="185" alt="Merge" />
-  <img src="screenshots/about.jpg" width="185" alt="About" />
-</p>
-
----
-
 ## ✨ Features
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Universal Viewer</h3>
+      <ul>
+        <li><strong>PDF Reader:</strong> Fast, smooth scrolling with page jump & zoom</li>
+        <li><strong>DOCX Viewer:</strong> Render Word documents offline</li>
+        <li><strong>Image Viewer:</strong> High-res viewing for PNG, JPG, and WEBP</li>
+        <li>Clean, distraction-free reading mode</li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
       <h3>📄 Merge & Organize</h3>
       <ul>
@@ -48,6 +46,8 @@
         <li>Auto-add page numbers</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📷 Scan to PDF</h3>
       <ul>
@@ -57,8 +57,6 @@
         <li>Stack pages, compile to PDF</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✍️ Sign & Watermark</h3>
       <ul>
@@ -68,6 +66,8 @@
         <li>Apply to single or all pages</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✂️ Split & Extract</h3>
       <ul>
@@ -76,10 +76,8 @@
         <li>Download single pages separately</li>
       </ul>
     </td>
-  </tr>
-    <tr>
     <td width="50%" valign="top">
-      <h3>🔄 Convert</h3>
+      <h3>🔄 Convert & Compress</h3>
       <ul>
         <li>PDF → Images — export each page as PNG/JPG</li>
         <li>PDF → Text — extract raw text content</li>
@@ -87,80 +85,5 @@
         <li>Compress PDF — reduce file size on-device</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <!-- This cell stays empty or you can move another feature here -->
-    </td>
   </tr>
 </table>
-
----
-
-## 🔒 Privacy
-
-**Your files never leave your phone.**
-
-Plexus PDF processes everything locally in your device's browser engine. There are zero network requests, no servers to upload to, no accounts to create, no trackers, no analytics. Every merge, sign, split, scan, and watermark is computed right where it should be — on your device.
-
----
-
-## ⬇️ Download
-
-| Version | Download |
-|---------|----------|
-| **Latest** | [![Download](https://img.shields.io/github/v/release/Moseskenny/Plexus-PDF?label=Get%20APK&color=cb6e6e)](https://github.com/Moseskenny/Plexus-PDF/releases/latest) |
-| **All Releases** | [View on GitHub](https://github.com/Moseskenny/Plexus-PDF/releases) |
-
-### Installation
-
-1. Download the `.apk` file from the release above
-2. Open it on your Android device
-3. Tap **Settings** → allow installation from this source
-4. Launch Plexus PDF
-
-> **Minimum:** Android 8.0 (API 26) or higher
-
----
-
-## 🛠️ Built With
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="32" /></td>
-    <td><strong>React</strong> + <strong>TanStack Start / Router</strong></td>
-    <td>UI framework & SSR</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" /></td>
-    <td><strong>Tailwind CSS v4</strong></td>
-    <td>Utility-first styling</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/capacitor/119EFF" width="32" /></td>
-    <td><strong>Capacitor</strong></td>
-    <td>Native Android wrapper</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/pdf/EC1C24" width="32" /></td>
-    <td><strong>pdf-lib</strong> + <strong>pdfjs-dist</strong></td>
-    <td>PDF generation & rendering</td>
-  </tr>
-</table>
-
-All PDF processing is done **client-side in the browser** — zero server communication.
-
----
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Moseskenny?color=ea4aaa&style=flat-square)](https://github.com/sponsors/Moseskenny)
-
-> [!IMPORTANT]
-> **Donations are entirely optional.** Plexus PDF is free software. Your support, in any form (even just a star!), is deeply appreciated!
-
----
-
-📄 License
-MIT (LICENSE)
-<div align="center">
-  <sub>Built with ❤️ for people who value their privacy.</sub>
-  <br />
-  <sub>© 2026 — Plexus PDF</sub>
-</div>
